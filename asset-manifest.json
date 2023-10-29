@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.5a992c0f.css",
+    "main.js": "/react-app/static/js/main.3a51a6ec.js",
+    "static/media/Main_Page_1.jpg": "/react-app/static/media/Main_Page_1.413175c3cd2578b28c94.jpg",
+    "static/media/Form_1.jpg": "/react-app/static/media/Form_1.d551f0f99c92ea137b0e.jpg",
+    "static/media/info_3.jpg": "/react-app/static/media/info_3.8a11e389282866ecec0b.jpg",
+    "static/media/info_1.png": "/react-app/static/media/info_1.1e1a14028764a95f716b.png",
+    "static/media/Main_Page_2.jpg": "/react-app/static/media/Main_Page_2.cc5a3ba0676e96dcaf3e.jpg",
+    "static/media/Godokin_university.jpg": "/react-app/static/media/Godokin_university.477a0ce9884904bbe2b8.jpg",
+    "static/media/info_2.png": "/react-app/static/media/info_2.d63cdfc7c0a2a9d50849.png",
+    "static/media/Vought.jpg": "/react-app/static/media/Vought.b523f8c632fac1ebe08a.jpg",
+    "index.html": "/react-app/index.html",
+    "main.5a992c0f.css.map": "/react-app/static/css/main.5a992c0f.css.map",
+    "main.3a51a6ec.js.map": "/react-app/static/js/main.3a51a6ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a992c0f.css",
+    "static/js/main.3a51a6ec.js"
+  ]
+}
